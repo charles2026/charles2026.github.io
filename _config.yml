@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "蔡优飞|Charles Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description ""
+name                     : &name "蔡优飞|Charles"
+description              : &description "Hi I'm here"
 url                      : https://cai-charles.github.io/charles123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cai-Charles/charles123.github.io"
