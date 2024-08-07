@@ -27,7 +27,7 @@ author:
   bio              : "世界因我们而不一样"
   location         : "深圳市南山区"
   employer         : "速腾聚创科技有限公司"
-  uri              : # URL
+  uri              : "https://github.com/Cai-Charles/charles123.github.io"
   email            : "charles.cai@robosense.cn" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Charles"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
