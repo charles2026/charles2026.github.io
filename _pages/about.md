@@ -2,7 +2,11 @@
 
 About me
 ======
+I am a tenure-track assistant professor in the Center on Frontiers of Computing Studies (CFCS) at Peking University. I founded and lead the Embodied Perception and InteraCtion (EPIC) Lab with the mission of developing generalizable skills and embodied multimodal large model for robots to facilitate embodied AGI.
 
+I am also the director of the PKU-Galbot joint lab of Embodied AI and the BAAI center of Embodied AI. I have published more than 50 papers in top conferences and journals of computer vision, robotics, and learning, including CVPR/ICCV/ECCV/TRO/ICRA/IROS/NeurIPS/ICLR/AAAI. My pioneering work on category-level 6D pose estimation, NOCS, received the 2022 World Artificial Intelligence Conference Youth Outstanding Paper (WAICYOP) Award, and my work also received ICCV 2023 best paper finalist, ICRA 2023 outstanding manipulation paper award finalist and Eurographics 2019 best paper honorable mention.
+
+I serve as an associate editor of Image and Vision Computing and serve as an area chair in CVPR 2022 and WACV 2022. Prior to joining Peking University, I received my Ph.D. degree from Stanford University in 2021 under the advisory of Prof. Leonidas J.Guibas and my Bachelor's degree from Tsinghua University in 2014.
 
 Experience|工作经历
 ======
