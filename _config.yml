@@ -12,9 +12,9 @@ title                    : "蔡优飞|Charles Personal Homepage"
 title_separator          : "-"
 name                     : &name "蔡优飞|Charles"
 description              : &description "Hi I'm here"
-url                      : https://charles2026.github.io/charles2026.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://charles2026.github.io/intro # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "charles2026/charles2026.github.io"
+repository               : "charles2026/intro"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
