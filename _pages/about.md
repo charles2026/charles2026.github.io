@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+我是港股上市公司速腾聚创研发副总裁蔡优飞，同时也是速腾聚创具身机器人事业部（AIR）的负责人，从0-1搭建整个团队，团队目前约100人，核心探索具身智能在机器人方向技术突破和落地应用，从长远落地角度来看，我们聚焦在家庭场景，我们的愿景是让人形机器人进入千家万户，让大家生活的更幸福。
+
 I am a tenure-track assistant professor in the Center on Frontiers of Computing Studies (CFCS) at Peking University. I founded and lead the Embodied Perception and InteraCtion (EPIC) Lab with the mission of developing generalizable skills and embodied multimodal large model for robots to facilitate embodied AGI.
 
 I am also the director of the PKU-Galbot joint lab of Embodied AI and the BAAI center of Embodied AI. I have published more than 50 papers in top conferences and journals of computer vision, robotics, and learning, including CVPR/ICCV/ECCV/TRO/ICRA/IROS/NeurIPS/ICLR/AAAI. My pioneering work on category-level 6D pose estimation, NOCS, received the 2022 World Artificial Intelligence Conference Youth Outstanding Paper (WAICYOP) Award, and my work also received ICCV 2023 best paper finalist, ICRA 2023 outstanding manipulation paper award finalist and Eurographics 2019 best paper honorable mention.
@@ -42,5 +44,6 @@ Miscellaneous|其他
 - 创新领军工程博士旨在培养具有坚实宽广的基础理论和系统深入的专门知识，具备解决复杂工程技术问题、进行工程技术创新以及规划和组织实施工程技术研究开发工作的的能力,能够在所在工程类别做出创新性成果的工程类别创新领军人才。而我目前从事的人形机器人和公司平台，对该方向都有极大的热情和兴趣。本人长期关注人工智能行业，近期深入学习和研读LLM，多模态大模型相关Paper，希望能机会继续深造，同时也希望对您所在的领域，能有贡献！
 
 - 我的个性开朗活泼，具有强烈的求知欲和探索精神。在学习和工作中，吃苦耐劳，独立思考，具备带领团队的能力。
-感谢您阅读我的自荐信，期待有机会进一步交流。
 
+Email：charles.cai@robosense.cn
+Phone：15815595587
