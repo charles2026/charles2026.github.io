@@ -16,14 +16,18 @@ redirect_from:
 Experience|工作经历
 ======
 毕业之后，开启了长达12年的工作生涯，主要分为三个阶段：初生牛犊的创业期，群英荟萃的学习期，重新出发的平台创业期
-![image](https://github.com/user-attachments/assets/0aac3387-d013-421c-830e-ffaa2b325f53)
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/8fda4950-e819-48fa-a0ab-81d75c4bc917">
+
+
+
 
 
 Education|教育
 ======
-![image](https://github.com/user-attachments/assets/ad1b3248-2a60-472d-a463-5c4db8851e47)
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/008a2af0-8f49-49bb-b86d-6e58864eae29">
 
-虽然我已经离开学校很长时间了，但我对科研和技术的热忱始终未减。不断学习和探索新知识，尤其是AI和机器人，一直是我生活的重要部分。我坚信科技创新是推动社会进步的关键，因此，我一直紧跟前沿动态，积极参与相关领域的实践和研究，力求为科技发展贡献自己的力量。
+
+虽然已经离开学校很长时间了，但我对科研和技术的热忱始终未减，不断学习和探索新知识，尤其是AI+机器人，一直是我生活的重要部分。我坚信科技创新是推动社会进步的关键，因此，我一直紧跟前沿动态，积极参与相关领域的实践和研究，力求为科技发展贡献自己的力量。
 
 Selected Awards|获奖
 ======
