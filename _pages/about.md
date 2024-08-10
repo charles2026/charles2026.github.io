@@ -60,4 +60,4 @@ Miscellaneous | 其他
 Contact|联系方式
 ======
 - Email：charles.cai@robosense.cn
-- Phone：15815595587
+- wechat：caiyoufei2006
