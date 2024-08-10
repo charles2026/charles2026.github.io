@@ -16,7 +16,8 @@ redirect_from:
 Experience | 工作经历
 ======
 毕业之后，开启了长达12年的工作生涯，主要分为三个阶段：初生牛犊的创业期，群英荟萃的学习期，重新出发的平台创业期
-<img width="922" alt="image" src="https://github.com/user-attachments/assets/8fda4950-e819-48fa-a0ab-81d75c4bc917">
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/4abcbca7-bbfd-4dd0-8c1a-ce99cc963ee0">
+
 
 
 
@@ -24,7 +25,10 @@ Experience | 工作经历
 
 Education | 教育
 ======
-<img width="927" alt="image" src="https://github.com/user-attachments/assets/008a2af0-8f49-49bb-b86d-6e58864eae29">
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/019154bc-8991-4af2-b381-abab5e7bd761">
+
+
+
 
 
 虽然已经离开学校很长时间了，但我对科研和技术的热忱始终未减，不断学习和探索新知识，尤其是AI+机器人，一直是我生活的重要部分。我坚信科技创新是推动社会进步的关键，因此，我一直紧跟前沿动态，积极参与相关领域的实践和研究，力求为科技发展贡献自己的力量。
@@ -32,14 +36,14 @@ Education | 教育
 Selected Awards | 获奖
 ======
 - 深圳市高层次人才
-- 获得国际4大奖项，7次德国IF奖，3次德国红点奖，2次日本G-mark奖，2次美国IDEA奖
 - 申请专利120余项，授权专利93项
-- 2021年带领团队成为阿里云加速器创新时辰“星光奖”深圳9家创企上榜
 - 带领公司获得 上格科技创新奖 第一名，广东“省长杯”优秀奖
-- 获得国家奖学金，国家励志奖学金等20多次
+- 2021年带领团队成为阿里云加速器创新时辰“星光奖”深圳9家创企上榜
+- 获得国际4大奖项，7次德国IF奖，3次德国红点奖，2次日本G-mark奖，2次美国IDEA奖
+- 获得国家奖学金（2%），国家励志奖学金等20多次
 - 获得2011年 Robocon 全国机器人大赛冠军，最佳技术奖
 - 获得2010年 Robocon 全国机器人大赛一等奖，最佳创新奖
-- 获得2009年 华中科技大学"特优生"
+- 获得2009年 华中科技大学"特优生"（1%）
 - 获得2009年 WPI(美国伍斯特理工)交换联培项目
 - 获得2008年 湖北省机械创新设计大赛一等奖
 
