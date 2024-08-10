@@ -19,16 +19,9 @@ Experience | 工作经历
 <img width="922" alt="image" src="https://github.com/user-attachments/assets/4abcbca7-bbfd-4dd0-8c1a-ce99cc963ee0">
 
 
-
-
-
-
 Education | 教育
 ======
 <img width="927" alt="image" src="https://github.com/user-attachments/assets/019154bc-8991-4af2-b381-abab5e7bd761">
-
-
-
 
 
 虽然已经离开学校很长时间了，但我对科研和技术的热忱始终未减，不断学习和探索新知识，尤其是AI+机器人，一直是我生活的重要部分。我坚信科技创新是推动社会进步的关键，因此，我一直紧跟前沿动态，积极参与相关领域的实践和研究，力求为科技发展贡献自己的力量。
