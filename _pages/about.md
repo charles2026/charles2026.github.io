@@ -16,6 +16,7 @@ redirect_from:
 Experience | 工作经历
 ======
 毕业之后，开启了长达12年的工作生涯，主要分为三个阶段：初生牛犊的创业期，群英荟萃的学习期，重新出发的平台创业期
+Charles.png
 <img width="922" alt="image" src="https://github.com/user-attachments/assets/4abcbca7-bbfd-4dd0-8c1a-ce99cc963ee0">
 
 
