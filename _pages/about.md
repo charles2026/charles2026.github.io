@@ -39,9 +39,6 @@ Experience | 工作经历
 - 孵化机器人公司，并完成分拆独立，目前估值超过20亿
 
 
-<img width="922" alt="image" src="https://github.com/user-attachments/assets/4abcbca7-bbfd-4dd0-8c1a-ce99cc963ee0">
-
-
 Education | 教育
 ======
 <img width="927" alt="image" src="https://github.com/user-attachments/assets/019154bc-8991-4af2-b381-abab5e7bd761">
