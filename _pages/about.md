@@ -19,7 +19,7 @@ Experience | Work Experience
 Built an end-to-end humanoid robot development team from scratch, with about 100 R&D personnel
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell"
 
-<b>Guangzhou XPeng Huitian  – 2022~2024 – Product Director</b>
+<b>Guangzhou XPeng Huitian Technology Co. Ltd – 2022~2024 – Product Director</b>
 
 Successfully persuaded the management to abandon the integrated aircraft and develop a new product line - eVTOL, saving hundreds of millions of yuan in investment
 Led a team of over 50 people to complete the development and testing of a single-person aircraft
@@ -39,25 +39,25 @@ Bachelor's degree – Huazhong University of Science and Technology – 2006~201
 
 Selected Awards | Awards
 ======
-Shenzhen High-Level Talent & Hong Kong High-End Talent
-Applied for over 120 patents, with 93 authorized patents
-Received the 1st place in ShangGe Science and Technology Innovation Award, Guangdong "Governor's Cup" Excellence Award, Alibaba Cloud "Starlight Award"
-Received 7 iF awards, 3 Red Dot awards, 2 G-mark awards, 2 IDEA awards
-Undergraduate recommendation for postgraduate studies ranked 2nd (2/415), received National Scholarship (2%), National Encouragement Scholarship and more than 20 other scholarships
-Won the championship and Best Technology Award at the 2011 Robocon National Robot Competition
-Won the first prize and Best Innovation Award at the 2010 Robocon National Robot Competition
-Received the "Outstanding Student" award from Huazhong University of Science and Technology in 2009 (1%)
-Participated in the exchange program at WPI (Worcester Polytechnic Institute) in the United States in 2009
-Won the first prize in the Hubei Province Mechanical Innovation Design Competition in 2008
+- Shenzhen High-Level Talent & Hong Kong High-End Talent
+- Applied for over 120 patents, with 93 authorized patents
+- Received the 1st place in ShangGe Science and Technology Innovation Award, Guangdong "Governor's Cup" Excellence Award, Alibaba Cloud "Starlight Award"
+- Received 7 iF awards, 3 Red Dot awards, 2 G-mark awards, 2 IDEA awards
+- Undergraduate recommendation for postgraduate studies ranked 2nd (2/415), received National Scholarship (2%), National Encouragement Scholarship and more than 20 other scholarships
+- Won the championship and Best Technology Award at the 2011 Robocon National Robot Competition
+- Won the first prize and Best Innovation Award at the 2010 Robocon National Robot Competition
+- Received the "Outstanding Student" award from Huazhong University of Science and Technology in 2009 (1%)
+- Participated in the exchange program at WPI (Worcester Polytechnic Institute) in the United States in 2009
+- Won the first prize in the Hubei Province Mechanical Innovation Design Competition in 2008
 
 Miscellaneous | Other
 ======
-In 2017, took the lead in participating in the national standard "General Technical Conditions for Electric Balance Cars"
-In 2018, took the lead in participating in the national standard plan "Safety Requirements and Test Methods for Electric Balance Cars"
-In 2019, took the lead in undertaking the national key R&D plan for the industrialization of intelligent balance cars, which has been accepted
-In 2021, undertook the national key special project "Research and Development of Wheeled Balance Algorithm and Wheeled Hardware for Wheel-Legged Compound Robots"
-One of the first batch of experts in drafting and reviewing the industry standards for electric balance cars in China
-Industry mentor at Southern University of Science and Technology
+- In 2017, took the lead in participating in the national standard "General Technical Conditions for Electric Balance Cars"
+- In 2018, took the lead in participating in the national standard plan "Safety Requirements and Test Methods for Electric Balance Cars"
+- In 2019, took the lead in undertaking the national key R&D plan for the industrialization of intelligent balance cars, which has been accepted
+- In 2021, undertook the national key special project "Research and Development of Wheeled Balance Algorithm and Wheeled Hardware for Wheel-Legged Compound Robots"
+- One of the first batch of experts in drafting and reviewing the industry standards for electric balance cars in China
+- Industry mentor at Southern University of Science and Technology
 
 Contact | Contact Information
 ======
