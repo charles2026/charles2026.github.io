@@ -59,7 +59,11 @@ Industry mentor at Southern University of Science and Technology
 Contact | Contact Information
 ======
 Email: charles.cai@robosense.cn
+
 WeChat: charlescai2030
+
+
+----------------------------------中文简历---------------------------------------
 
 
 个人简历 | BIOGRAPHY
