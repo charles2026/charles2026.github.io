@@ -14,20 +14,19 @@ Won multiple robot competition championships during undergraduate studies, co-fo
 
 Experience | Work Experience
 ======
-Shenzhen Sutech Innovation (Hong Kong Stock Exchange-listed) – 2024~Present – Sutech Innovation R&D VP (Business Line Platform Entrepreneurship)
+<b>Shenzhen Sutech Innovation (Hong Kong Stock Exchange-listed) – 2024~Present – Sutech Innovation R&D VP (Business Line Platform Entrepreneurship)</b>
 Built an end-to-end humanoid robot development team from scratch, with about 100 R&D personnel
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell"
 
-Guangzhou XPeng Huitian (Subsidiary of XPeng Motors) – 2022~2024 – Product Director
+<b>Guangzhou XPeng Huitian (Subsidiary of XPeng Motors) – 2022~2024 – Product Director</b>
 Successfully persuaded the management to abandon the integrated aircraft and develop a new product line - eVTOL, saving hundreds of millions of yuan in investment
 Led a team of over 50 people to complete the development and testing of a single-person aircraft
 
-Shenzhen LeXing Tianxia (Self-employment) – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)
+<b>Shenzhen LeXing Tianxia (Self-employment) – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)</b>
 Completed the 0-1 establishment process of the company, with a peak of over 500 employees
 Led the team to complete the mass production of more than 10 products, with a total sales volume of over 3 million units
 Completed 4 rounds of financing, with Series B financing exceeding 100 million yuan
-In 2017, took over the company in crisis as CEO, turned a loss of 10 million yuan into a profit of 20 million yuan within 2 years, and successfully sold the company
-Incubated a robot company, completed spin-off independence, with a valuation exceeding 2 billion yuan
+In 2017, took over the company in crisis as CEO, turned a loss of 10 million yuan into a profit of 20 million yuan within 2 years, and successfully sold the company,Incubated a robot company, completed spin-off independence, with a valuation exceeding 2 billion yuan
 
 Education | Education
 ======
