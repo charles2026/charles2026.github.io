@@ -31,7 +31,8 @@ Incubated a robot company, completed spin-off independence, with a valuation exc
 
 Education | Education
 ======
-Master's – Chinese Academy of Sciences & The Chinese University of Hong Kong Joint Training – 2010~2013 – Computer Technology (Mentor: CUHK Academician Xu Yangsheng)
+Master's – Chinese Academy of Sciences  – 2010~2013 – Computer Technology (Mentor: CUHK Academician Xu Yangsheng)
+
 Undergraduate – Huazhong University of Science and Technology – 2006~2010 – Mechanical Design, Manufacturing and Automation
 
 Selected Awards | Awards
