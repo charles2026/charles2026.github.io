@@ -8,13 +8,13 @@ redirect_from:
 ---
 BIOGRAPHY
 ======
-Hong Kong Stock Exchange-listed company, Suteng Innovation, R&D Vice President, responsible for the AI Robotics Business Group (AIR), confirming the mission and vision of the business, building an efficient R&D team of about 100 people from scratch, exploring breakthroughs and implementations of embodied intelligence technology, bringing humanoid robots into thousands of households.
+RoboSense (2498.HK), R&D Vice President, responsible for the AI Robotics Business Group (AIR), confirming the mission and vision of the business, building an efficient R&D team of about 100 people from scratch, exploring breakthroughs and implementations of embodied intelligence technology, bringing humanoid robots into thousands of households.
 
 Won multiple robot competition championships during undergraduate studies, co-founded a robot company during graduate studies with revenue exceeding 500 million yuan, sold to over 50 countries; during this period, incubated a robot vacuum cleaner company, after spinning off, the valuation exceeded 2 billion yuan.
 
 Work Experience
 ======
-<b>Suteng Innovation Technology Co., LTD (Hong Kong Stock Exchange-listed) – 2024~Present – AIR Group Leader</b>
+<b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2024~Present – AIR Group Leader</b>
 
 Built an end-to-end humanoid robot development team from scratch, Approximately 30% hold a Ph.D., and over 80% hold a Master's degree;
 Completed two iterations of the humanoid robot Turing series products, and two iterations of the 3D force sensor, linear joints, domain controllers, and dexterous hands, all reaching the top level in the industry;
