@@ -16,7 +16,7 @@ Work Experience
 ======
 <b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2024~Present – AIR Group Leader</b>
 
-Built an end-to-end humanoid robot development team from scratch, Approximately 30% hold a Ph.D., and over 80% hold a Master's degree;
+Built an end-to-end humanoid robot development team from scratch, Approximately 30% hold a Ph.D., and about 70% hold a Master's degree;
 Completed two iterations of the humanoid robot Turing series products, and two iterations of the 3D force sensor, linear joints, domain controllers, and dexterous hands, all reaching the top level in the industry;
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell".
 
