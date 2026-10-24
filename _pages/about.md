@@ -24,10 +24,10 @@ Built an end-to-end humanoid robot development team from scratch, Approximately 
 Completed two iterations of the humanoid robot Turing series products, and two iterations of the 3D force sensor, linear joints, domain controllers, and dexterous hands, all reaching the top level in the industry;
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell".
 
-<b>Guangzhou XPengHuitian Technology Co. Ltd-2022 ~ 2024 -Product Director</b>
+<b>Guangzhou XPengHuitian Technology Co. LTD – 2022 ~ 2024 -Product Director</b>
 Successfully persuaded the management to abandon the integrated aircraft and develop a new product line-eV TOL, saving hundreds of millions of yuan in investment; Leda team of over50 people to complete the development and testing of a single-person aircraft.
 
-<b>Shenzhen Inmotion Technology Co. Ltd – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)</b>
+<b>Shenzhen Inmotion Technology Co. LTD – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)</b>
 
 Completed the 0-1 establishment process of the company, with a peak of over 500 employees;
 Led the team to complete the mass production of more than 10 products, with a total sales volume of over 3 million units;
