@@ -8,17 +8,24 @@ redirect_from:
 ---
 BIOGRAPHY
 ======
-RoboSense (2498.HK), R&D Vice President, responsible for the AI Robotics Business Group (AIR), confirming the mission and vision of the business, building an efficient R&D team of about 100 people from scratch, exploring breakthroughs and implementations of embodied intelligence technology, bringing humanoid robots into thousands of households. CEO of cedarobo
+Cedarobo, CEO,specializing in strategic planning and commercialization of sports robotics products. Responsible for team building, supply chain management, and market expansion, focusing on the embodied intelligence track in tennis equipment, leading the team to deliver complete solutions for sports robots.
 
-Won multiple robot competition championships during undergraduate studies, co-founded a robot company during graduate studies with revenue exceeding 500 million yuan, sold to over 50 countries; during this period, incubated a robot vacuum cleaner company, after spinning off, the valuation exceeded 2 billion yuan.
+Won multiple robots competition championships during undergraduate studies, co-founded a robot company during graduate studies with revenue exceeding 500 million yuan, sold to over 50 countries; during this period, incubated a robot vacuum cleaner company, after spinning off, the valuation exceeded 2 billion yuan.
 
 Work Experience
 ======
-<b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2022~Present – R&D vice president</b>
+<b>Cedarobo Innovation Technology Co., LTD – 2025~Present – CEO</b>
+
+As the founder and CEO of Cedarobo Technology, I identified the core track of sports robots and oriented the company toward tennis embodied intelligence. I lead strategic planning and commercialization of our products. Starting from scratch, I built an interdisciplinary R&D team of over 80 members. achieving the 0-to-1 prototype validation and engineering breakthrough. I also oversee supply chain development, market expansion and business partnerships. 
+
+<b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2024~2025 – R&D vice president</b>
 
 Built an end-to-end humanoid robot development team from scratch, Approximately 30% hold a Ph.D., and about 70% hold a Master's degree;
 Completed two iterations of the humanoid robot Turing series products, and two iterations of the 3D force sensor, linear joints, domain controllers, and dexterous hands, all reaching the top level in the industry;
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell".
+
+<b>Guangzhou XPengHuitian Technology Co. Ltd-2022 ~ 2024 -Product Director</b>
+Successfully persuaded the management to abandon the integrated aircraft and develop a new product line-eV TOL, saving hundreds of millions of yuan in investment; Leda team of over50 people to complete the development and testing of a single-person aircraft.
 
 <b>Shenzhen Inmotion Technology Co. Ltd – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)</b>
 
