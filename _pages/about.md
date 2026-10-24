@@ -16,7 +16,7 @@ Work Experience
 ======
 <b>Cedarobo Innovation Technology Co., LTD – 2025~Present – CEO</b>
 
-As the founder and CEO of Cedarobo Technology, I identified the core track of sports robots and oriented the company toward tennis embodied intelligence. I lead strategic planning and commercialization of our products. Starting from scratch, I built an interdisciplinary R&D team of over 80 members. achieving the 0-to-1 prototype validation and engineering breakthrough. I also oversee supply chain development, market expansion and business partnerships. 
+As the founder and CEO of Cedarobo Technology, I identified the core track of sports robots and oriented the company toward tennis embodied intelligence. I lead strategic planning and commercialization of our products. Starting from scratch, I built an interdisciplinary R&D team of over 80 members. achieving the 0-to-1 prototype validation. I also oversee supply chain development, market expansion and business partnerships. 
 
 <b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2024~2025 – R&D vice president</b>
 
